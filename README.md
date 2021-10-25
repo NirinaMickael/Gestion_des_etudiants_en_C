@@ -11,6 +11,8 @@ C'est le fichier source , c'est-à-dire que sans lui le programme n'exécute pas
 ## structure.h
 Ce fichier qui porte l'extension .h fichier header, celle-ci contient tous les prototypes de nos fonctions.
 ## structure.c
- Et pour celui-ci, on peut trouver toutes les définitions de nos fonctions
-----------
+Et pour celui-ci, on peut trouver toutes les définitions de nos fonctions
+
+Pour pouvoir éxecuter le programme ,il suffit de télecharger ces trois fichiers dans une même dossier
+Et puis les ouvrir en même temps avec votre editeur de texte ou IDE
 ![](https://github.com/NirinaMickael/Gestion_des_etudiants_en_C/blob/main/IMG_20211025_144746.jpg)
